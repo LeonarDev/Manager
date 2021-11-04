@@ -1,6 +1,6 @@
 # Manager API
 
-> Projeto de estudos criando uma API Rest com .NET 5, EF Core e boas práticas de arquitetura.
+> Projeto de API Rest com .NET 5, EF Core e boas práticas de arquitetura.
 
 ## Para rodar o projeto
 
