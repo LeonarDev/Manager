@@ -1,12 +1,14 @@
 # Manager API
 
-> Uma API Rest com .NET 5, EF Core e boas práticas. [Arquitetura baseada nos princípios do DDD](https://alexalvess.medium.com/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686)
+> Uma API Rest com .NET 5, EntityFramework Core, SQL Server e boas práticas. [Arquitetura baseada nos princípios do DDD](https://alexalvess.medium.com/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686)
 
 <p align="center">
   <img src="./assets/ddd.png"/>
 </p>
 
 <br>
+
+API criada com vscode.
 
 ## Para rodar o projeto
 
