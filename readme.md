@@ -8,7 +8,7 @@
 
 <br>
 
-API criada com vscode.
+API criada com vscode (CLI tryhard).
 
 ## Para rodar o projeto
 
