@@ -6,6 +6,8 @@
   <img src="./assets/ddd.png"/>
 </p>
 
+<br>
+
 ## Para rodar o projeto
 
 #### Iniciar segredos de usuários:
