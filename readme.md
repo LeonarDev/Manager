@@ -54,7 +54,7 @@ dotnet user-secrets remove "[CHAVE]"
 
 #### Adicionar nova soluçao:
 ```
-dotnet new solution -o Manager.sln
+dotnet new solution -o Manager
 ```
 
 #### Adicionar novo projeto de API:
