@@ -1,6 +1,11 @@
 # Manager API
 
-> Projeto de estudos criando uma API Rest com .NET 5, EF Core e boas práticas de arquitetura.
+> Projeto de estudos criando uma API Rest com .NET 5, EF Core e boas práticas.
+[Uma arquitetura em .Net Core baseada nos princípios do DDD](https://alexalvess.medium.com/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686)
+
+<p align="center">
+  <img src="./assets/ddd.png"/>
+</p>
 
 ## Para rodar o projeto
 
