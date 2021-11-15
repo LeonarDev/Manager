@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using Manager.Domain.Validators;
+
 namespace Manager.Domain.Entities
 {
     public class User : Base
@@ -42,9 +46,10 @@ namespace Manager.Domain.Entities
                 {
                     _errors.Add(error.ErrorMessage);
 
-                    throw new System.Exception("Existe algum campo inválido.", _errors[0]);
+                    throw new Exception("Existe algum campo inválido. " + _errors[0]);
                 }
             }
+            return true;
         }
     }
 }
